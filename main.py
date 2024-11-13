@@ -1,5 +1,3 @@
-text = str("SNOITALUTARGNOC")
-revText = text[::-1]
-text = revText
-print("Reverse of given string is:")
+text = str.upper("congratulations")
+print("In upper-case:")
 print(text)
